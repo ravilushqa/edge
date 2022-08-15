@@ -14,7 +14,7 @@ import (
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/grpc/status"
 
-	"github.com/ravilushqa/boilerplate/api"
+	"github.com/ravilushqa/edge/api"
 )
 
 type server struct {

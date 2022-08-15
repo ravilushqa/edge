@@ -1,4 +1,4 @@
-module github.com/ravilushqa/boilerplate
+module github.com/ravilushqa/edge
 
 go 1.19
 

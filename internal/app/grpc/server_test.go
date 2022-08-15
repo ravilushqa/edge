@@ -9,7 +9,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/ravilushqa/boilerplate/api"
+	"github.com/ravilushqa/edge/api"
 )
 
 func TestServer_Greet(t *testing.T) {

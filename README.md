@@ -1,3 +1,2 @@
-# boilerplate
+# edge
 
-For using boilerplate, click use this template button.
